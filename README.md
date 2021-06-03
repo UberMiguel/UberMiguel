@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UberMiguel
+- 👀 I’m interested in gaming webapps, networking tools, and a/v scripts
+- 🌱 I’m currently learning Python, JavaScript, and Go
+- 💞️ I’m looking to collaborate on EvE Online and other gaming tools, webapps, etc.
+- 📫 @EluxLucis.proCo@gmail.com
